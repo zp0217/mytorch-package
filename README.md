@@ -1,0 +1,2 @@
+mytorch has a package  for performing toy version of pytorch. my torch has four components, data.py,models.py,optimizers.py and reports.py, data.py laods data and modify data(speically for text data) and split data into test,train,validation set. 
+models.py define models and divide into case, making updates. optimizer.py mainly uses gradient descent for optimizer and this py file includes loss function.reports.py shows the reports needed, plot needed for evaluating model.
